@@ -1750,8 +1750,8 @@ figure.highlight pre .javascript .function {
 }
 #article-container code {
   padding: 2px 4px;
-  background: rgba(27,31,35,0.05);
-  color: #f47466;
+  background: #6f42c1;
+  color: #fff;
 }
 #article-container pre {
   padding: 10px 20px;
@@ -5864,7 +5864,7 @@ blockquote.pullquote.right {
   box-shadow: none;
 }
 [data-theme='dark'] #article-container .note code {
-  background: rgba(27,31,35,0.05);
+  background: #6f42c1;
 }
 [data-theme='dark'] #article-container .aplayer {
   filter: brightness(0.8);
