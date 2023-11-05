@@ -3004,7 +3004,7 @@ h1.page-title + .tag-cloud-list {
   animation: more-btn-move 1s infinite;
 }
 #aside-content .card-announcement .item-headline i {
-  color: #f00;
+  color: #000;
 }
 .avatar-img {
   overflow: hidden;
