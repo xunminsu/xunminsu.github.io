@@ -6211,12 +6211,3 @@ blockquote.pullquote.right {
   display: none;
   background: rgba(0,0,0,0.6);
 }
-@font-face {
-  font-family: 'tzy';
-  src: url("https://npm.elemecdn.com/ethan4116-blog/lib/font/ZhuZiAWan.ttf");
-  font-display: swap;
-}
-body,
-.gitcalendar {
-  font-family: tzy !important;
-}
