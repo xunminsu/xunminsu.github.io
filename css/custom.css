@@ -1,10 +1,10 @@
 @font-face {
-    font-family: 'mefont';
+    font-family: 'webfont';
     src: url('https://npm.elemecdn.com/ethan4116-blog/lib/font/ZhuZiAWan.ttf');
     font-display: swap;
 }
 
 body,
 .gitcalendar {
-    font-family: mefont !important;
+    font-family: webfont !important;
 }
